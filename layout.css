@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 10% 80% 10%;
+}
+
+header{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+
+
+}
+main{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+}
+footer{
+    background-color: cyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+      
+    }
